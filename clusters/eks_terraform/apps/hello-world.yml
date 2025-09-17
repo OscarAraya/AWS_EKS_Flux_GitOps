@@ -8,6 +8,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-system
-  path: ./apps_eks_terraform/hello-world
+  path: ./apps/eks_terraform/hello-world
   prune: true
   wait: true
